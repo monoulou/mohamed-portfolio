@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "about": "A propos",
+    "skills": "Competences",
+    "services": "Services",
+    "projects": "Projets",
+    "contact": "Contact",
+    "hireMe": "Engager"
+  },
+  "hero": {
+    "headline": "Developpeur Full-Stack Senior",
+    "subtitle": "Creation d'applications SaaS et web evolutives",
+    "ctaViewWork": "Voir mon travail",
+    "ctaGetInTouch": "Prendre contact",
+    "locationBadge": "Base a Montreal, Canada"
+  },
+  "about": {
+    "title": "A propos",
+    "description": "Je suis un developpeur full-stack senior avec plus de 8 ans d'experience dans la creation d'applications web et de plateformes SaaS evolutives. Base a Montreal, je suis un entrepreneur avec une INC du Quebec et une LLC du Delaware, specialise dans la livraison de solutions logicielles de haute qualite.",
+    "experience": "8+ ans d'experience",
+    "location": "Base a Montreal",
+    "business": "Entrepreneur INC + LLC",
+    "focus": "Constructeur SaaS"
+  },
+  "skills": {
+    "title": "Competences",
+    "categories": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "devops": "DevOps",
+      "business": "Business"
+    },
+    "items": {
+      "phpSymfony": "PHP/Symfony",
+      "apiPlatform": "API Platform",
+      "mysql": "MySQL/MariaDB",
+      "docker": "Docker",
+      "react": "React",
+      "typescript": "TypeScript",
+      "vite": "Vite",
+      "tailwind": "Tailwind",
+      "haproxy": "HAProxy",
+      "n8n": "n8n",
+      "cicd": "CI/CD",
+      "saasArch": "Architecture SaaS",
+      "consulting": "Consulting Technique",
+      "codeReview": "Code Review"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "items": {
+      "fullStack": {
+        "title": "Developpement Web Full-Stack",
+        "description": "Developpement end-to-end avec PHP/Symfony et React, livrant des applications web robustes et evolutives."
+      },
+      "saas": {
+        "title": "Architecture et Developpement de Produits SaaS",
+        "description": "Architecture et construction de plateformes SaaS completes, du concept initial au deploiement en production."
+      },
+      "consulting": {
+        "title": "Consulting Technique et Code Review",
+        "description": "Conseil expert en decisions d'architecture, optimisation de performance et revues de code completes."
+      },
+      "api": {
+        "title": "Conception et Integration d'API",
+        "description": "Conception d'APIs RESTful robustes et integration de services tiers pour un flux de donnees fluide."
+      },
+      "devops": {
+        "title": "DevOps et Infrastructure",
+        "description": "Mise en place de pipelines CI/CD, de conteneurs Docker et d'infrastructure cloud evolutive."
+      }
+    },
+    "learnMore": "En savoir plus"
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Une selection de produits que j'ai construits et livres.",
+    "featured": "Projet en vedette",
+    "items": {
+      "reviewpulse": {
+        "description": "Une plateforme SaaS pour la gestion des avis Google, aidant les entreprises a surveiller, analyser et repondre efficacement aux avis clients. Construite de zero avec Symfony + React."
+      },
+      "smartinbox": {
+        "description": "Un nettoyeur intelligent de boîte de réception Gmail qui analyse votre boîte de réception, identifie le désordre et supprime les e-mails en masse — avec des niveaux gratuits et premium. Construit avec Symfony, l'API Google et Stripe."
+      }
+    },
+    "reviewPulse": {
+      "title": "ReviewPulse AI",
+      "description": "Une plateforme SaaS pour la gestion des avis Google, aidant les entreprises a surveiller, analyser et repondre efficacement aux avis clients.",
+      "techStack": "Technologies",
+      "link": "Voir le site"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Vous avez un projet en tete ? Parlons-en.",
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Votre nom",
+      "email": "Email",
+      "emailPlaceholder": "votre@email.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Demande de projet",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-moi de votre projet...",
+      "submit": "Envoyer",
+      "send": "Envoyer le message",
+      "sent": "Message envoye !"
+    },
+    "directLinks": "Ou contactez-moi directement",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "hint": "Préférez discuter ? Contactez-moi à tout moment — je réponds généralement en moins de 24h."
+  },
+  "chat": {
+    "title": "Assistant IA de Mohamed",
+    "greeting": "Salut ! Je suis l'assistant IA de Mohamed. Je peux vous parler de ses competences, services, disponibilite, et vous aider a le contacter. Comment puis-je vous aider ?",
+    "online": "En ligne",
+    "openLabel": "Ouvrir le chat",
+    "closeLabel": "Fermer le chat",
+    "sendLabel": "Envoyer le message",
+    "inputPlaceholder": "Tapez un message...",
+    "quickActions": {
+      "bookCall": "Reserver un appel",
+      "techStack": "Stack technique",
+      "rates": "Voir les tarifs",
+      "projects": "Voir les projets"
+    },
+    "chips": {
+      "bookACall": "Reserver un appel",
+      "viewRates": "Voir les tarifs",
+      "seeProjects": "Voir les projets",
+      "techStack": "Stack technique"
+    },
+    "placeholder": "Tapez un message...",
+    "send": "Envoyer"
+  },
+  "footer": {
+    "builtWith": "Build avec React + TypeScript",
+    "rights": "Tous droits reserves."
+  }
+}

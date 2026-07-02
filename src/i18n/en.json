@@ -1,0 +1,143 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hireMe": "Hire Me"
+  },
+  "hero": {
+    "headline": "Senior Full-Stack Developer",
+    "subtitle": "Building scalable SaaS and web applications",
+    "ctaViewWork": "View My Work",
+    "ctaGetInTouch": "Get In Touch",
+    "locationBadge": "Based in Montreal, Canada"
+  },
+  "about": {
+    "title": "About",
+    "description": "I am a senior full-stack developer with over 8 years of experience building scalable web applications and SaaS platforms. Based in Montreal, I am an entrepreneur with a Quebec INC and a Delaware LLC, focusing on delivering high-quality software solutions.",
+    "experience": "8+ Years Experience",
+    "location": "Montreal-based",
+    "business": "INC + LLC Entrepreneur",
+    "focus": "SaaS Builder"
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "devops": "DevOps",
+      "business": "Business"
+    },
+    "items": {
+      "phpSymfony": "PHP/Symfony",
+      "apiPlatform": "API Platform",
+      "mysql": "MySQL/MariaDB",
+      "docker": "Docker",
+      "react": "React",
+      "typescript": "TypeScript",
+      "vite": "Vite",
+      "tailwind": "Tailwind",
+      "haproxy": "HAProxy",
+      "n8n": "n8n",
+      "cicd": "CI/CD",
+      "saasArch": "SaaS Architecture",
+      "consulting": "Technical Consulting",
+      "codeReview": "Code Review"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "items": {
+      "fullStack": {
+        "title": "Full-Stack Web Development",
+        "description": "End-to-end development with PHP/Symfony and React, delivering robust and scalable web applications."
+      },
+      "saas": {
+        "title": "SaaS Product Architecture & Development",
+        "description": "Architecting and building complete SaaS platforms, from initial concept to production deployment."
+      },
+      "consulting": {
+        "title": "Technical Consulting & Code Review",
+        "description": "Expert guidance on architecture decisions, performance optimization, and comprehensive code reviews."
+      },
+      "api": {
+        "title": "API Design & Integration",
+        "description": "Designing robust RESTful APIs and integrating third-party services for seamless data flow."
+      },
+      "devops": {
+        "title": "DevOps & Infrastructure Setup",
+        "description": "Setting up CI/CD pipelines, Docker containers, and scalable cloud infrastructure."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of products I've built and shipped.",
+    "featured": "Featured Project",
+    "items": {
+      "reviewpulse": {
+        "description": "A SaaS platform for Google Reviews management, helping businesses monitor, analyze, and respond to customer reviews efficiently. Built from scratch with Symfony + React."
+      },
+      "smartinbox": {
+        "description": "A smart Gmail inbox cleaner that analyzes your inbox, identifies clutter, and deletes emails in bulk — with free and premium tiers. Built with Symfony, Google API, and Stripe."
+      }
+    },
+    "reviewPulse": {
+      "title": "ReviewPulse AI",
+      "description": "A SaaS platform for Google Reviews management, helping businesses monitor, analyze, and respond to customer reviews efficiently.",
+      "techStack": "Tech Stack",
+      "link": "Visit Site"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project in mind? Let's talk.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Project inquiry",
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your project...",
+      "submit": "Send Message",
+      "send": "Send Message",
+      "sent": "Message Sent!"
+    },
+    "directLinks": "Or reach out directly",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "hint": "Prefer a chat? Reach out anytime — I typically respond within 24h."
+  },
+  "chat": {
+    "title": "Mohamed's AI Assistant",
+    "greeting": "Hi! I'm Mohamed's AI assistant. I can tell you about his skills, services, availability, and help you get in touch. How can I help?",
+    "online": "Online",
+    "openLabel": "Open chat",
+    "closeLabel": "Close chat",
+    "sendLabel": "Send message",
+    "inputPlaceholder": "Type a message...",
+    "quickActions": {
+      "bookCall": "Book a call",
+      "techStack": "Tech stack",
+      "rates": "View rates",
+      "projects": "See projects"
+    },
+    "chips": {
+      "bookACall": "Book a call",
+      "viewRates": "View rates",
+      "seeProjects": "See projects",
+      "techStack": "Tech stack"
+    },
+    "placeholder": "Type a message...",
+    "send": "Send"
+  },
+  "footer": {
+    "builtWith": "Built with React + TypeScript",
+    "rights": "All rights reserved."
+  }
+}
