@@ -73,9 +73,9 @@
     },
     "learnMore": "En savoir plus"
   },
-  "projects": {
-    "title": "Projets",
-    "subtitle": "Une selection de produits que j'ai construits et livres.",
+"projects": {
+    "title": "Récents projets",
+    "subtitle": "Une sélection de produits que j'ai construits et livrés.",
     "featured": "Projet en vedette",
     "items": {
       "reviewpulse": {
