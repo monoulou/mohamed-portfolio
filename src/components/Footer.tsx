@@ -7,9 +7,14 @@ const Footer: React.FC = () => {
   return (
     <footer className="border-t border-white/[0.05] py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-6">
-        <p className="text-quaternary-text text-sm font-[400]">
-          &copy; {new Date().getFullYear()} Mohamed ABDELMOUMEN {t('footer.rights')}
-        </p>
+<div className="space-y-2">
+            <p className="text-quaternary-text text-sm font-[400]">
+              &copy; {new Date().getFullYear()} Mohamed A. {t('footer.rights')}
+            </p>
+            <p className="text-quaternary-text text-sm font-[400]">
+              {t('footer.inc')}
+            </p>
+          </div>
         <div className="flex items-center gap-6">
           <a
             href="https://github.com/mohamedb"

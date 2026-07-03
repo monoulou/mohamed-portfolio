@@ -138,6 +138,7 @@
   },
   "footer": {
     "builtWith": "Built with React + TypeScript",
-    "rights": "All rights reserved."
+    "rights": "All rights reserved.",
+    "inc": "9550-8644 Québec inc • 10342 rue Clark, H3L 2S2 Montréal"
   }
 }

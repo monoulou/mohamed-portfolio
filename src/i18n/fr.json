@@ -137,8 +137,9 @@
     "placeholder": "Tapez un message...",
     "send": "Envoyer"
   },
-  "footer": {
+"footer": {
     "builtWith": "Build avec React + TypeScript",
-    "rights": "Tous droits reserves."
+    "rights": "Tous droits réserves.",
+    "inc": "9550-8644 Québec inc • 10342 rue Clark, H3L 2S2 Montréal"
   }
 }

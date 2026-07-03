@@ -9,7 +9,7 @@ interface SEOHeadProps {
 
 const SEOHead: React.FC<SEOHeadProps> = ({
   title = "Mohamed A. — Senior Full-Stack Developer | SaaS Architect",
-  description = "Hire Mohamed ABDELMOUMEN, a senior full-stack developer in Montreal specializing in SaaS architecture, Symfony, React, and scalable web applications.",
+  description = "Hire Mohamed A., a senior full-stack developer in Montreal specializing in SaaS architecture, Symfony, React, and scalable web applications.",
   canonical = "https://mohamed.dev",
 }) => {
   const { i18n } = useTranslation()
