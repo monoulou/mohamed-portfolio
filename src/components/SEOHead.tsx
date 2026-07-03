@@ -8,8 +8,8 @@ interface SEOHeadProps {
 }
 
 const SEOHead: React.FC<SEOHeadProps> = ({
-  title = "Mohamed A. — Senior Full-Stack Developer | SaaS Architect",
-  description = "Hire Mohamed, a senior full-stack developer in Montreal specializing in SaaS architecture, Symfony, React, and scalable web applications.",
+  title = "Mohamed ABDELMOUMEN — Senior Full-Stack Developer | SaaS Architect",
+  description = "Hire Mohamed ABDELMOUMEN, a senior full-stack developer in Montreal specializing in SaaS architecture, Symfony, React, and scalable web applications.",
   canonical = "https://mohamed.dev",
 }) => {
   const { i18n } = useTranslation()
@@ -19,7 +19,7 @@ const SEOHead: React.FC<SEOHeadProps> = ({
   const personSchema = {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: 'Mohamed A.',
+    name: 'Mohamed ABDELMOUMEN',
     jobTitle: 'Senior Full-Stack Developer',
     url: canonical,
     sameAs: [
@@ -99,7 +99,7 @@ const SEOHead: React.FC<SEOHeadProps> = ({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:url" content={currentUrl} />
-      <meta property="og:site_name" content="Mohamed A." />
+      <meta property="og:site_name" content="Mohamed ABDELMOUMEN" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
