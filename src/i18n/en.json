@@ -79,10 +79,12 @@
     "featured": "Featured Project",
     "items": {
       "reviewpulse": {
-        "description": "A SaaS platform for Google Reviews management, helping businesses monitor, analyze, and respond to customer reviews efficiently. Built from scratch with Symfony + React."
+        "description": "A SaaS platform for Google Reviews management, helping businesses monitor, analyze, and respond to customer reviews efficiently. Built from scratch with Symfony + React.",
+        "link": "https://reviewspulse.app/"
       },
       "smartinbox": {
-        "description": "A smart Gmail inbox cleaner that analyzes your inbox, identifies clutter, and deletes emails in bulk — with free and premium tiers. Built with Symfony, Google API, and Stripe."
+        "description": "A smart Gmail inbox cleaner that analyzes your inbox, identifies clutter, and deletes emails in bulk — with free and premium tiers. Built with Symfony, Google API, and Stripe.",
+        "link": "https://getsmartinbox.com"
       }
     },
     "reviewPulse": {

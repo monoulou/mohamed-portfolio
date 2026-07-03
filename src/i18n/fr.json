@@ -79,10 +79,12 @@
     "featured": "Projet en vedette",
     "items": {
       "reviewpulse": {
-        "description": "Une plateforme SaaS pour la gestion des avis Google, aidant les entreprises a surveiller, analyser et repondre efficacement aux avis clients. Construite de zero avec Symfony + React."
+        "description": "Une plateforme SaaS pour la gestion des avis Google, aidant les entreprises a surveiller, analyser et repondre efficacement aux avis clients. Construite de zero avec Symfony + React.",
+        "link": "https://reviewspulse.app/"
       },
       "smartinbox": {
-        "description": "Un nettoyeur intelligent de boîte de réception Gmail qui analyse votre boîte de réception, identifie le désordre et supprime les e-mails en masse — avec des niveaux gratuits et premium. Construit avec Symfony, l'API Google et Stripe."
+        "description": "Un nettoyeur intelligent de boîte de réception Gmail qui analyse votre boîte de réception, identifie le désordre et supprime les e-mails en masse — avec des niveaux gratuits et premium. Construit avec Symfony, l'API Google et Stripe.",
+        "link": "https://getsmartinbox.com"
       }
     },
     "reviewPulse": {
