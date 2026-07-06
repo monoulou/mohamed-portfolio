@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion, AnimatePresence, type Variants } from 'framer-motion'
 
 const Contact: React.FC = () => {
   const { t } = useTranslation()
@@ -16,7 +16,7 @@ const Contact: React.FC = () => {
     }
   }
 
-  const charVariants = {
+  const charVariants: Variants = {
     hidden: { opacity: 0, y: 8, filter: 'blur(8px)' },
     visible: (i: number) => ({
       opacity: 1,
@@ -56,18 +56,18 @@ const Contact: React.FC = () => {
     return <span className="text-brand-accent">{content}</span>
   }
 
-  const cardVariants = {
+  const cardVariants: Variants = {
     hidden: { opacity: 0, x: -20, scale: 0.95 },
     visible: (i: number) => ({
       opacity: 1,
       x: 0,
       scale: 1,
-      transition: { delay: i * 0.15, duration: 0.4, ease: [0.25, 0.46, 0.45, 0.94] },
+      transition: { delay: i * 0.15, duration: 0.4, ease: 'easeOut' },
     }),
     exit: { opacity: 0, x: -20, scale: 0.95, transition: { duration: 0.25 } },
   }
 
-  const pulseRing = {
+  const pulseRing: Variants = {
     animate: {
       scale: [1, 1.5, 1],
       opacity: [0.3, 0, 0.3],

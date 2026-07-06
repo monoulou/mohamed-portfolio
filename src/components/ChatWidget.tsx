@@ -9,7 +9,7 @@ interface Message {
 }
 
 // API endpoint — proxy server handles OpenAI calls securely
-const API_URL = 'http://localhost:3001/api/chat'
+const API_URL = '/api/chat'
 
 const ChatWidget: React.FC = () => {
   const { t, i18n } = useTranslation()
